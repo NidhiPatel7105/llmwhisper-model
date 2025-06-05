@@ -1,3 +1,7 @@
+📄 README.md
+markdown
+Copy
+Edit
 # 🧠 LLMWhisperer Text Extraction & JSON Output
 
 This project uses the **Unstract LLM Whisperer API** to extract text from an image or document file (like a `.jpg`, `.png`, or `.pdf`) and outputs the result in clean, structured JSON format.
@@ -102,4 +106,11 @@ Edit
 
 ---
 
-Let me know if you want me to generate a `requirements.txt` as well or include collection querying in a fu
+Let me know if you want me to generate a `requirements.txt` as well or include collection querying in a future version.
+
+
+
+
+
+
+
